@@ -58,6 +58,7 @@ export default function App() {
       >
         <Column id="toDo" tasks={tasks} />
       </DndContext>
+     
     </div>
   );
 }
